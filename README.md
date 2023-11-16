@@ -1,5 +1,9 @@
 # Estatística para Ciência de Dados e Machine Learning
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### 📚  Descrição
 
 Repositório com materiais do curso [Estatística para Ciência de Dados e Machine Learning](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/).
